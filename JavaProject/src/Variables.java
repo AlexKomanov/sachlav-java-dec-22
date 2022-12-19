@@ -20,7 +20,7 @@ public class Variables {
         boolean isTrue = true;
         boolean isFalse = false;
 
-        char myChar = '\uDD4E';
+        char myChar = '\uf54e';
         char myChar2 = 'g';
         System.out.println("myChar = " + myChar);
 
