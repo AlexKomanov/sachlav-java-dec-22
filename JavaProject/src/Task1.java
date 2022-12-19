@@ -9,5 +9,8 @@ public class Task1 {
         System.out.println("\t\t\t\tО. Хайям");
 
 
+
+
+
     }
 }
