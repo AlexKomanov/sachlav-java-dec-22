@@ -17,6 +17,8 @@ public class Variables {
         float myFloat = 4.56f;
         double myDouble = 56.78;
 
+        System.out.println("myDouble = " + myDouble);
+
         System.out.println("myFloat = " + myFloat);
 
         boolean isTrue = true;
@@ -28,5 +30,7 @@ public class Variables {
 
         String myName = "Alex";
         System.out.println("myName = " + myName);
+
+        String lastName = new String("Komanov");
     }
 }
