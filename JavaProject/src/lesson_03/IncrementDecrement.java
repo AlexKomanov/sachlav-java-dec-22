@@ -23,5 +23,9 @@ public class IncrementDecrement {
         a--;
         System.out.println("a = " + a);
 
+        System.out.println("a = " + a++);
+        System.out.println("a = " + a);
+
+        System.out.println("a = " + ++a);
     }
 }
