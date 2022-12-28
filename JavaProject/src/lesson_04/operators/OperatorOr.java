@@ -1,4 +1,4 @@
-package lesson_04;
+package lesson_04.operators;
 
 public class OperatorOr {
     public static void main(String[] args) {
