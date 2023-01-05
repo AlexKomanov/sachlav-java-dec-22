@@ -8,7 +8,6 @@ public class Collection_01_ArrayList {
         int array[] = new int[3];
 
         ArrayList<Integer> myArrayList = new ArrayList<>();
-
         System.out.println("myArrayList.size() = " + myArrayList.size());
         myArrayList.add(5);
         myArrayList.add(7);
