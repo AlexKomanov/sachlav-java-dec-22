@@ -2,7 +2,7 @@ package lesson_06.methods;
 
 import java.util.ArrayList;
 
-public class Method_02_VoidWithParams {
+public class Methods_02_VoidWithParams {
     public static void main(String[] args) {
 
         sayHello("Alex", 34);
