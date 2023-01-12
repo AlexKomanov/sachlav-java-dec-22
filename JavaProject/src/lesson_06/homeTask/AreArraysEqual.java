@@ -50,7 +50,6 @@ public class AreArraysEqual {
                 if (array1[i] != array2[i]) {
                     return false;
                 }
-
             }
             return true;
 
