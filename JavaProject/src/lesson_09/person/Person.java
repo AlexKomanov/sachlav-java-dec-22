@@ -1,6 +1,6 @@
-package lesson_09;
+package lesson_09.person;
 
-public class Person {
+public abstract class Person {
 
     private String firstName;
     private String lastName;
@@ -56,4 +56,6 @@ public class Person {
 //        System.out.println("My name is " + firstName + " " + lastName + ".");
         System.out.println("It is too general question. I'm just a person.");
     }
+
+    public abstract void whoAreYou();
 }
