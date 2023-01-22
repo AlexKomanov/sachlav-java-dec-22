@@ -9,6 +9,14 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
+
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "radius=" + radius +
+                " " + super.toString();
+    }
+
     /**
      * Method calculates area
      * @return calculated area of the shape.
