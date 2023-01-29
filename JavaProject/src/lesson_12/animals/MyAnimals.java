@@ -18,6 +18,6 @@ public class MyAnimals{
         list.add(new Bird());
         list.add(new Snake());
 
-        list.forEach(animal -> animal.breathe(5));
+        list.forEach(animal -> ((Animal)animal ).breathe(5));
     }
 }
