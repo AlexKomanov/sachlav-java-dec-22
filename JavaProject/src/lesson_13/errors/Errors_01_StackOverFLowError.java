@@ -4,6 +4,7 @@ public class Errors_01_StackOverFLowError {
     public static void main(String[] args) {
 
         calculate(10);
+        calculate(10);
     }
 
     public static int calculate(int number) {
